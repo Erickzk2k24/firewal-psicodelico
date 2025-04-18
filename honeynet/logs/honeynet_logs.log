@@ -1,0 +1,958 @@
+2025-04-18 11:54:54,039 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 11:54:54,039 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 11:54:54,052 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:54:54,578 - WARNING -  * Debugger is active!
+2025-04-18 11:54:54,581 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:54:56,210 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:54:56,721 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:54:57,266 - WARNING -  * Debugger is active!
+2025-04-18 11:54:57,270 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:54:59,370 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:00,407 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:00,994 - WARNING -  * Debugger is active!
+2025-04-18 11:55:00,997 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:02,684 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:03,103 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:03,600 - WARNING -  * Debugger is active!
+2025-04-18 11:55:03,603 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:05,703 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:06,731 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:07,259 - WARNING -  * Debugger is active!
+2025-04-18 11:55:07,261 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:09,564 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:10,370 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:10,897 - WARNING -  * Debugger is active!
+2025-04-18 11:55:10,900 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:12,962 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:14,030 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:14,561 - WARNING -  * Debugger is active!
+2025-04-18 11:55:14,564 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:16,568 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:16,700 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:17,216 - WARNING -  * Debugger is active!
+2025-04-18 11:55:17,219 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:20,989 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:21,351 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:21,920 - WARNING -  * Debugger is active!
+2025-04-18 11:55:21,923 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:23,873 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:24,025 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:24,517 - WARNING -  * Debugger is active!
+2025-04-18 11:55:24,520 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:26,559 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:27,632 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:28,146 - WARNING -  * Debugger is active!
+2025-04-18 11:55:28,149 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:29,911 - INFO - 127.0.0.1 - - [18/Apr/2025 11:55:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-18 11:55:30,077 - INFO - 127.0.0.1 - - [18/Apr/2025 11:55:30] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-18 11:55:30,092 - INFO - 127.0.0.1 - - [18/Apr/2025 11:55:30] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-18 11:55:30,141 - INFO - 127.0.0.1 - - [18/Apr/2025 11:55:30] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=GpKsrrwumuGwpR9OMJyQ HTTP/1.1" 200 -
+2025-04-18 11:55:30,147 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:30,177 - INFO - 127.0.0.1 - - [18/Apr/2025 11:55:30] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-18 11:55:30,255 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:31,223 - WARNING -  * Debugger is active!
+2025-04-18 11:55:31,226 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:32,903 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:33,356 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:33,965 - WARNING -  * Debugger is active!
+2025-04-18 11:55:33,968 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:36,150 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:37,099 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:37,620 - WARNING -  * Debugger is active!
+2025-04-18 11:55:37,626 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:39,565 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:39,763 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:40,339 - WARNING -  * Debugger is active!
+2025-04-18 11:55:40,342 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:42,109 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:42,465 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:42,997 - WARNING -  * Debugger is active!
+2025-04-18 11:55:43,000 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:44,979 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:45,168 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:45,666 - WARNING -  * Debugger is active!
+2025-04-18 11:55:45,668 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:47,396 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:47,789 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:48,391 - WARNING -  * Debugger is active!
+2025-04-18 11:55:48,394 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:50,327 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:50,487 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:51,028 - WARNING -  * Debugger is active!
+2025-04-18 11:55:51,032 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:53,013 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:53,145 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:53,673 - WARNING -  * Debugger is active!
+2025-04-18 11:55:53,678 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:55,932 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:55:56,808 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:55:57,376 - WARNING -  * Debugger is active!
+2025-04-18 11:55:57,379 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:55:59,426 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:00,477 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:00,972 - WARNING -  * Debugger is active!
+2025-04-18 11:56:00,974 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:02,939 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:03,080 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:03,586 - WARNING -  * Debugger is active!
+2025-04-18 11:56:03,589 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:05,527 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:05,701 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:06,206 - WARNING -  * Debugger is active!
+2025-04-18 11:56:06,209 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:08,290 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:09,353 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:09,921 - WARNING -  * Debugger is active!
+2025-04-18 11:56:09,924 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:11,602 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:12,052 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:12,564 - WARNING -  * Debugger is active!
+2025-04-18 11:56:12,567 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:14,570 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:14,666 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:15,238 - WARNING -  * Debugger is active!
+2025-04-18 11:56:15,241 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:17,204 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:17,360 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:17,920 - WARNING -  * Debugger is active!
+2025-04-18 11:56:17,923 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:20,174 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:21,042 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:21,550 - WARNING -  * Debugger is active!
+2025-04-18 11:56:21,553 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:23,663 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:24,681 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:25,259 - WARNING -  * Debugger is active!
+2025-04-18 11:56:25,262 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:27,088 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:29,869 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 11:56:29,869 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 11:56:29,882 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:30,373 - WARNING -  * Debugger is active!
+2025-04-18 11:56:30,375 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:31,952 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:32,497 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:33,011 - WARNING -  * Debugger is active!
+2025-04-18 11:56:33,014 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:34,566 - INFO - 127.0.0.1 - - [18/Apr/2025 11:56:34] "GET / HTTP/1.1" 200 -
+2025-04-18 11:56:35,107 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:36,115 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:36,626 - WARNING -  * Debugger is active!
+2025-04-18 11:56:36,632 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:38,695 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:39,770 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:40,294 - WARNING -  * Debugger is active!
+2025-04-18 11:56:40,297 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:42,404 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:43,437 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:44,008 - WARNING -  * Debugger is active!
+2025-04-18 11:56:44,011 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:45,764 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:46,147 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:46,706 - WARNING -  * Debugger is active!
+2025-04-18 11:56:46,709 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:48,726 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:48,833 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:49,412 - WARNING -  * Debugger is active!
+2025-04-18 11:56:49,415 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:51,773 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:52,542 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:53,094 - WARNING -  * Debugger is active!
+2025-04-18 11:56:53,097 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:54,983 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:55,211 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:55,773 - WARNING -  * Debugger is active!
+2025-04-18 11:56:55,777 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:56:57,784 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:56:57,904 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:56:58,424 - WARNING -  * Debugger is active!
+2025-04-18 11:56:58,427 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:00,461 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:00,534 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:01,021 - WARNING -  * Debugger is active!
+2025-04-18 11:57:01,024 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:03,040 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:03,137 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:03,697 - WARNING -  * Debugger is active!
+2025-04-18 11:57:03,700 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:05,721 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:05,804 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:06,296 - WARNING -  * Debugger is active!
+2025-04-18 11:57:06,298 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:08,342 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:08,399 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:08,960 - WARNING -  * Debugger is active!
+2025-04-18 11:57:08,963 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:11,258 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:12,104 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:12,601 - WARNING -  * Debugger is active!
+2025-04-18 11:57:12,604 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:14,728 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:15,745 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:16,254 - WARNING -  * Debugger is active!
+2025-04-18 11:57:16,258 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:18,081 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:18,365 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:18,922 - WARNING -  * Debugger is active!
+2025-04-18 11:57:18,925 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:21,024 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:22,037 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:22,568 - WARNING -  * Debugger is active!
+2025-04-18 11:57:22,571 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:24,672 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:25,675 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:26,174 - WARNING -  * Debugger is active!
+2025-04-18 11:57:26,177 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:30,432 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:31,328 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:31,955 - WARNING -  * Debugger is active!
+2025-04-18 11:57:31,959 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:33,646 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:34,096 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:34,632 - WARNING -  * Debugger is active!
+2025-04-18 11:57:34,635 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:37,161 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:37,760 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:38,356 - WARNING -  * Debugger is active!
+2025-04-18 11:57:38,359 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:42,837 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:43,495 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:44,034 - WARNING -  * Debugger is active!
+2025-04-18 11:57:44,036 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:45,863 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:46,172 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:46,690 - WARNING -  * Debugger is active!
+2025-04-18 11:57:46,696 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:48,610 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:48,827 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:49,349 - WARNING -  * Debugger is active!
+2025-04-18 11:57:49,352 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:51,386 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:51,458 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:51,994 - WARNING -  * Debugger is active!
+2025-04-18 11:57:51,996 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:54,028 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:54,132 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:54,677 - WARNING -  * Debugger is active!
+2025-04-18 11:57:54,680 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:56,710 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:56,814 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:57:57,345 - WARNING -  * Debugger is active!
+2025-04-18 11:57:57,348 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:57:58,837 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:57:59,482 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:58:00,003 - WARNING -  * Debugger is active!
+2025-04-18 11:58:00,006 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:58:00,729 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:58:01,121 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:58:01,649 - WARNING -  * Debugger is active!
+2025-04-18 11:58:01,652 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:58:03,720 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 11:58:04,762 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 11:58:05,283 - WARNING -  * Debugger is active!
+2025-04-18 11:58:05,286 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 11:58:34,057 - INFO - 127.0.0.1 - - [18/Apr/2025 11:58:34] "GET / HTTP/1.1" 200 -
+2025-04-18 12:02:27,129 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:27,856 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:28,384 - WARNING -  * Debugger is active!
+2025-04-18 12:02:28,387 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:30,462 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:31,505 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:32,032 - WARNING -  * Debugger is active!
+2025-04-18 12:02:32,035 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:34,700 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:35,133 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:35,651 - WARNING -  * Debugger is active!
+2025-04-18 12:02:35,654 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:37,189 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:37,744 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:38,259 - WARNING -  * Debugger is active!
+2025-04-18 12:02:38,262 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:40,310 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:41,391 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:41,961 - WARNING -  * Debugger is active!
+2025-04-18 12:02:41,964 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:43,791 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:44,070 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:44,627 - WARNING -  * Debugger is active!
+2025-04-18 12:02:44,630 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:46,635 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:46,743 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:47,263 - WARNING -  * Debugger is active!
+2025-04-18 12:02:47,266 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:49,325 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:50,421 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:50,978 - WARNING -  * Debugger is active!
+2025-04-18 12:02:50,982 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:53,083 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:54,096 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:54,623 - WARNING -  * Debugger is active!
+2025-04-18 12:02:54,626 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:56,657 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:56,721 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:57,241 - WARNING -  * Debugger is active!
+2025-04-18 12:02:57,244 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:02:59,251 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:02:59,374 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:02:59,879 - WARNING -  * Debugger is active!
+2025-04-18 12:02:59,882 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:01,957 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:02,995 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:03,516 - WARNING -  * Debugger is active!
+2025-04-18 12:03:03,522 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:05,356 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:05,653 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:06,206 - WARNING -  * Debugger is active!
+2025-04-18 12:03:06,212 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:08,344 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:09,328 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:09,843 - WARNING -  * Debugger is active!
+2025-04-18 12:03:09,846 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:11,770 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:11,953 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:12,505 - WARNING -  * Debugger is active!
+2025-04-18 12:03:12,509 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:14,555 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:15,621 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:16,127 - WARNING -  * Debugger is active!
+2025-04-18 12:03:16,130 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:18,203 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:19,234 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:19,749 - WARNING -  * Debugger is active!
+2025-04-18 12:03:19,752 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:21,751 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:21,865 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:22,378 - WARNING -  * Debugger is active!
+2025-04-18 12:03:22,381 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:24,357 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:24,479 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:25,009 - WARNING -  * Debugger is active!
+2025-04-18 12:03:25,012 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:27,136 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:28,116 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:28,620 - WARNING -  * Debugger is active!
+2025-04-18 12:03:28,623 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:30,576 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:30,737 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:31,244 - WARNING -  * Debugger is active!
+2025-04-18 12:03:31,247 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:33,337 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:34,382 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:34,934 - WARNING -  * Debugger is active!
+2025-04-18 12:03:34,937 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:36,750 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:37,065 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:37,579 - WARNING -  * Debugger is active!
+2025-04-18 12:03:37,582 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:39,703 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:40,710 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:41,213 - WARNING -  * Debugger is active!
+2025-04-18 12:03:41,216 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:43,192 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:43,337 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:43,896 - WARNING -  * Debugger is active!
+2025-04-18 12:03:43,899 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:45,969 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:47,045 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:47,557 - WARNING -  * Debugger is active!
+2025-04-18 12:03:47,560 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:49,393 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:49,669 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:50,226 - WARNING -  * Debugger is active!
+2025-04-18 12:03:50,229 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:52,344 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:53,351 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:53,874 - WARNING -  * Debugger is active!
+2025-04-18 12:03:53,877 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:55,855 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:55,973 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:56,519 - WARNING -  * Debugger is active!
+2025-04-18 12:03:56,523 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:58,530 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:03:58,617 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:03:59,170 - WARNING -  * Debugger is active!
+2025-04-18 12:03:59,174 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:03:59,494 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:00,306 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:00,842 - WARNING -  * Debugger is active!
+2025-04-18 12:04:00,845 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:02,857 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:02,948 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:03,479 - WARNING -  * Debugger is active!
+2025-04-18 12:04:03,486 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:05,099 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:05,590 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:06,120 - WARNING -  * Debugger is active!
+2025-04-18 12:04:06,123 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:07,713 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:08,225 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:08,718 - WARNING -  * Debugger is active!
+2025-04-18 12:04:08,721 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:10,719 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:10,833 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:11,381 - WARNING -  * Debugger is active!
+2025-04-18 12:04:11,384 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:13,362 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:13,481 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:14,006 - WARNING -  * Debugger is active!
+2025-04-18 12:04:14,012 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:15,615 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:16,134 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:16,700 - WARNING -  * Debugger is active!
+2025-04-18 12:04:16,703 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:18,458 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:18,811 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:19,325 - WARNING -  * Debugger is active!
+2025-04-18 12:04:19,328 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:21,325 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:21,441 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:21,971 - WARNING -  * Debugger is active!
+2025-04-18 12:04:21,974 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:23,959 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:24,099 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:24,607 - WARNING -  * Debugger is active!
+2025-04-18 12:04:24,610 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:26,681 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:27,727 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:28,268 - WARNING -  * Debugger is active!
+2025-04-18 12:04:28,271 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:30,297 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:30,421 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:30,967 - WARNING -  * Debugger is active!
+2025-04-18 12:04:30,970 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:33,027 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:34,104 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:34,669 - WARNING -  * Debugger is active!
+2025-04-18 12:04:34,672 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:36,740 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:37,811 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:38,296 - WARNING -  * Debugger is active!
+2025-04-18 12:04:38,299 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:40,360 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:41,417 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:41,906 - WARNING -  * Debugger is active!
+2025-04-18 12:04:41,909 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:43,842 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:44,033 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:44,572 - WARNING -  * Debugger is active!
+2025-04-18 12:04:44,575 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:46,530 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:46,723 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:47,256 - WARNING -  * Debugger is active!
+2025-04-18 12:04:47,259 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:49,267 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:49,357 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:49,853 - WARNING -  * Debugger is active!
+2025-04-18 12:04:49,855 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:51,969 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:52,997 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:53,563 - WARNING -  * Debugger is active!
+2025-04-18 12:04:53,566 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:54,999 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:55,672 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:56,245 - WARNING -  * Debugger is active!
+2025-04-18 12:04:56,248 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:04:58,256 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:04:58,369 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:04:58,873 - WARNING -  * Debugger is active!
+2025-04-18 12:04:58,877 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:00,963 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:01,995 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:02,527 - WARNING -  * Debugger is active!
+2025-04-18 12:05:02,530 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:04,532 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:04,639 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:05,175 - WARNING -  * Debugger is active!
+2025-04-18 12:05:05,177 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:07,086 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:07,302 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:07,835 - WARNING -  * Debugger is active!
+2025-04-18 12:05:07,839 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:09,987 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:10,953 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:11,490 - WARNING -  * Debugger is active!
+2025-04-18 12:05:11,493 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:13,606 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:14,601 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:15,116 - WARNING -  * Debugger is active!
+2025-04-18 12:05:15,119 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:17,176 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:18,228 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:18,733 - WARNING -  * Debugger is active!
+2025-04-18 12:05:18,736 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:20,765 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:20,857 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:21,405 - WARNING -  * Debugger is active!
+2025-04-18 12:05:21,408 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:23,518 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:24,537 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:25,053 - WARNING -  * Debugger is active!
+2025-04-18 12:05:25,056 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:27,108 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:28,174 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:28,693 - WARNING -  * Debugger is active!
+2025-04-18 12:05:28,696 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:29,269 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:29,794 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:30,288 - WARNING -  * Debugger is active!
+2025-04-18 12:05:30,292 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:32,405 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:33,403 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:33,899 - WARNING -  * Debugger is active!
+2025-04-18 12:05:33,902 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:35,355 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:36,022 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:36,580 - WARNING -  * Debugger is active!
+2025-04-18 12:05:36,584 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:38,356 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:38,675 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:39,193 - WARNING -  * Debugger is active!
+2025-04-18 12:05:39,196 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:41,335 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:42,315 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:42,840 - WARNING -  * Debugger is active!
+2025-04-18 12:05:42,844 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:44,783 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:44,959 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:45,501 - WARNING -  * Debugger is active!
+2025-04-18 12:05:45,504 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:47,556 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:48,628 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:49,177 - WARNING -  * Debugger is active!
+2025-04-18 12:05:49,181 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:51,317 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:52,320 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:52,877 - WARNING -  * Debugger is active!
+2025-04-18 12:05:52,880 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:54,675 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:54,980 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:55,498 - WARNING -  * Debugger is active!
+2025-04-18 12:05:55,501 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:05:57,789 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:05:58,607 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:05:59,136 - WARNING -  * Debugger is active!
+2025-04-18 12:05:59,139 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:01,266 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:02,278 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:02,768 - WARNING -  * Debugger is active!
+2025-04-18 12:06:02,771 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:04,800 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:04,872 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:05,373 - WARNING -  * Debugger is active!
+2025-04-18 12:06:05,375 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:07,553 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:08,484 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:09,024 - WARNING -  * Debugger is active!
+2025-04-18 12:06:09,027 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:11,197 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:12,175 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:12,673 - WARNING -  * Debugger is active!
+2025-04-18 12:06:12,676 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:14,728 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:15,809 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:16,350 - WARNING -  * Debugger is active!
+2025-04-18 12:06:16,352 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:18,183 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:18,476 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:19,054 - WARNING -  * Debugger is active!
+2025-04-18 12:06:19,057 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:21,064 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:21,174 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:21,676 - WARNING -  * Debugger is active!
+2025-04-18 12:06:21,679 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:23,817 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:24,827 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:25,388 - WARNING -  * Debugger is active!
+2025-04-18 12:06:25,391 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:27,782 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:28,492 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:29,004 - WARNING -  * Debugger is active!
+2025-04-18 12:06:29,007 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:30,792 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:31,119 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:31,647 - WARNING -  * Debugger is active!
+2025-04-18 12:06:31,650 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:33,704 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:34,774 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:35,304 - WARNING -  * Debugger is active!
+2025-04-18 12:06:35,307 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:37,299 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:37,429 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:37,978 - WARNING -  * Debugger is active!
+2025-04-18 12:06:37,981 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:40,060 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:41,098 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:41,619 - WARNING -  * Debugger is active!
+2025-04-18 12:06:41,622 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:43,467 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:43,753 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:44,299 - WARNING -  * Debugger is active!
+2025-04-18 12:06:44,302 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:46,106 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:46,422 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:46,919 - WARNING -  * Debugger is active!
+2025-04-18 12:06:46,922 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:48,981 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:50,065 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:50,612 - WARNING -  * Debugger is active!
+2025-04-18 12:06:50,615 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:52,416 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:52,745 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:53,314 - WARNING -  * Debugger is active!
+2025-04-18 12:06:53,317 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:55,431 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:56,438 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:56,993 - WARNING -  * Debugger is active!
+2025-04-18 12:06:56,996 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:06:58,745 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:06:59,125 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:06:59,678 - WARNING -  * Debugger is active!
+2025-04-18 12:06:59,681 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:01,531 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:01,797 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:02,276 - WARNING -  * Debugger is active!
+2025-04-18 12:07:02,279 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:02,610 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:03,383 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:03,884 - WARNING -  * Debugger is active!
+2025-04-18 12:07:03,890 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:05,984 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:07,037 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:07,529 - WARNING -  * Debugger is active!
+2025-04-18 12:07:07,532 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:09,701 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:10,660 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:11,170 - WARNING -  * Debugger is active!
+2025-04-18 12:07:11,176 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:13,231 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:14,309 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:14,783 - WARNING -  * Debugger is active!
+2025-04-18 12:07:14,786 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:17,078 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:17,926 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:18,410 - WARNING -  * Debugger is active!
+2025-04-18 12:07:18,414 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:20,375 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:20,544 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:21,091 - WARNING -  * Debugger is active!
+2025-04-18 12:07:21,094 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:23,033 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:23,211 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:23,744 - WARNING -  * Debugger is active!
+2025-04-18 12:07:23,750 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:25,793 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:25,861 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:26,455 - WARNING -  * Debugger is active!
+2025-04-18 12:07:26,459 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:28,481 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:28,582 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:29,131 - WARNING -  * Debugger is active!
+2025-04-18 12:07:29,133 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:31,128 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:31,244 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:31,747 - WARNING -  * Debugger is active!
+2025-04-18 12:07:31,750 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:33,828 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:34,884 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:35,475 - WARNING -  * Debugger is active!
+2025-04-18 12:07:35,478 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:37,101 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:37,582 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:38,073 - WARNING -  * Debugger is active!
+2025-04-18 12:07:38,076 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:40,215 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:41,219 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:41,742 - WARNING -  * Debugger is active!
+2025-04-18 12:07:41,745 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:43,667 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:43,863 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:44,385 - WARNING -  * Debugger is active!
+2025-04-18 12:07:44,390 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:46,462 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:47,511 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:48,066 - WARNING -  * Debugger is active!
+2025-04-18 12:07:48,070 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:50,064 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:50,203 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:50,780 - WARNING -  * Debugger is active!
+2025-04-18 12:07:50,783 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:52,504 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:52,886 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:53,372 - WARNING -  * Debugger is active!
+2025-04-18 12:07:53,375 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:55,430 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:56,499 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:57,011 - WARNING -  * Debugger is active!
+2025-04-18 12:07:57,014 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:07:58,820 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:07:59,139 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:07:59,700 - WARNING -  * Debugger is active!
+2025-04-18 12:07:59,706 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:01,505 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:01,830 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:02,389 - WARNING -  * Debugger is active!
+2025-04-18 12:08:02,395 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:04,471 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:05,547 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:06,120 - WARNING -  * Debugger is active!
+2025-04-18 12:08:06,123 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:07,788 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:08,226 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:08,756 - WARNING -  * Debugger is active!
+2025-04-18 12:08:08,759 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:10,766 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:10,860 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:11,370 - WARNING -  * Debugger is active!
+2025-04-18 12:08:11,372 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:13,642 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:14,490 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:14,983 - WARNING -  * Debugger is active!
+2025-04-18 12:08:14,989 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:17,192 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:18,132 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:18,679 - WARNING -  * Debugger is active!
+2025-04-18 12:08:18,682 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:20,658 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:20,829 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:21,339 - WARNING -  * Debugger is active!
+2025-04-18 12:08:21,342 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:23,353 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:23,458 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:23,942 - WARNING -  * Debugger is active!
+2025-04-18 12:08:23,945 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:26,083 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:27,070 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:27,607 - WARNING -  * Debugger is active!
+2025-04-18 12:08:27,610 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:29,940 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:30,752 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:31,261 - WARNING -  * Debugger is active!
+2025-04-18 12:08:31,264 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:32,900 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:33,379 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:33,928 - WARNING -  * Debugger is active!
+2025-04-18 12:08:33,934 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:33,969 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:35,042 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:35,596 - WARNING -  * Debugger is active!
+2025-04-18 12:08:35,599 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:37,388 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:37,389 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:37,724 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:38,220 - WARNING -  * Debugger is active!
+2025-04-18 12:08:38,222 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:39,841 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:40,344 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:40,866 - WARNING -  * Debugger is active!
+2025-04-18 12:08:40,870 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:43,465 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:44,007 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:44,492 - WARNING -  * Debugger is active!
+2025-04-18 12:08:44,498 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:47,016 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:47,618 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:48,166 - WARNING -  * Debugger is active!
+2025-04-18 12:08:48,169 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:51,615 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:52,303 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:52,846 - WARNING -  * Debugger is active!
+2025-04-18 12:08:52,849 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:08:56,481 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:08:57,004 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:08:57,585 - WARNING -  * Debugger is active!
+2025-04-18 12:08:57,588 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:03,028 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:03,736 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:04,288 - WARNING -  * Debugger is active!
+2025-04-18 12:09:04,290 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:06,270 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:06,402 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:06,890 - WARNING -  * Debugger is active!
+2025-04-18 12:09:06,896 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:09,056 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:10,022 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:10,583 - WARNING -  * Debugger is active!
+2025-04-18 12:09:10,586 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:12,272 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:12,706 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:13,272 - WARNING -  * Debugger is active!
+2025-04-18 12:09:13,275 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:17,674 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:18,407 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:18,907 - WARNING -  * Debugger is active!
+2025-04-18 12:09:18,910 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:20,687 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:21,032 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:21,511 - WARNING -  * Debugger is active!
+2025-04-18 12:09:21,514 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:23,548 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:23,613 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:24,105 - WARNING -  * Debugger is active!
+2025-04-18 12:09:24,111 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:26,210 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:27,236 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:27,773 - WARNING -  * Debugger is active!
+2025-04-18 12:09:27,775 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:29,518 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:29,894 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:30,444 - WARNING -  * Debugger is active!
+2025-04-18 12:09:30,447 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:32,456 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:32,557 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:33,053 - WARNING -  * Debugger is active!
+2025-04-18 12:09:33,056 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:35,192 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:36,180 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:36,729 - WARNING -  * Debugger is active!
+2025-04-18 12:09:36,732 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:38,727 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:38,839 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:39,387 - WARNING -  * Debugger is active!
+2025-04-18 12:09:39,390 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:41,435 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:42,534 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:43,052 - WARNING -  * Debugger is active!
+2025-04-18 12:09:43,054 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:45,129 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:46,197 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:46,741 - WARNING -  * Debugger is active!
+2025-04-18 12:09:46,743 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:48,699 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:48,858 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:49,372 - WARNING -  * Debugger is active!
+2025-04-18 12:09:49,374 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:51,482 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:52,516 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:53,058 - WARNING -  * Debugger is active!
+2025-04-18 12:09:53,064 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:09:55,398 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:09:56,181 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:09:56,684 - WARNING -  * Debugger is active!
+2025-04-18 12:09:56,686 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:04,831 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:05,622 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:05,873 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:06,471 - WARNING -  * Debugger is active!
+2025-04-18 12:10:06,474 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:08,077 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:08,623 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:09,185 - WARNING -  * Debugger is active!
+2025-04-18 12:10:09,189 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:11,425 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:12,348 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:12,919 - WARNING -  * Debugger is active!
+2025-04-18 12:10:12,922 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:13,004 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:14,003 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:14,492 - WARNING -  * Debugger is active!
+2025-04-18 12:10:14,495 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:16,463 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:16,600 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:17,125 - WARNING -  * Debugger is active!
+2025-04-18 12:10:17,128 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:18,766 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:19,226 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:19,741 - WARNING -  * Debugger is active!
+2025-04-18 12:10:19,744 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:21,852 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:22,871 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:23,387 - WARNING -  * Debugger is active!
+2025-04-18 12:10:23,389 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:25,845 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:26,521 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:27,068 - WARNING -  * Debugger is active!
+2025-04-18 12:10:27,071 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:28,997 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:29,175 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:29,679 - WARNING -  * Debugger is active!
+2025-04-18 12:10:29,682 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:31,629 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:31,789 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:32,292 - WARNING -  * Debugger is active!
+2025-04-18 12:10:32,295 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:34,321 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:34,426 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:34,936 - WARNING -  * Debugger is active!
+2025-04-18 12:10:34,939 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:36,917 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:37,038 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:37,559 - WARNING -  * Debugger is active!
+2025-04-18 12:10:37,562 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:39,654 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:40,681 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:41,216 - WARNING -  * Debugger is active!
+2025-04-18 12:10:41,219 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:42,902 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:43,325 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:43,860 - WARNING -  * Debugger is active!
+2025-04-18 12:10:43,862 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:45,677 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:45,999 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:46,511 - WARNING -  * Debugger is active!
+2025-04-18 12:10:46,513 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:48,489 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:48,615 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:49,121 - WARNING -  * Debugger is active!
+2025-04-18 12:10:49,127 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:51,216 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:52,240 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:52,736 - WARNING -  * Debugger is active!
+2025-04-18 12:10:52,739 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:10:54,771 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:10:54,841 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:10:55,348 - WARNING -  * Debugger is active!
+2025-04-18 12:10:55,352 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:00,310 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:00,490 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:00,985 - WARNING -  * Debugger is active!
+2025-04-18 12:11:00,991 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:03,037 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:04,140 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:04,692 - WARNING -  * Debugger is active!
+2025-04-18 12:11:04,695 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:06,432 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:06,817 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:07,339 - WARNING -  * Debugger is active!
+2025-04-18 12:11:07,342 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:09,488 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:10,465 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:10,980 - WARNING -  * Debugger is active!
+2025-04-18 12:11:10,983 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:13,016 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:13,098 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:13,650 - WARNING -  * Debugger is active!
+2025-04-18 12:11:13,653 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:15,717 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:16,761 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:17,319 - WARNING -  * Debugger is active!
+2025-04-18 12:11:17,322 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:19,118 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:19,434 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:19,954 - WARNING -  * Debugger is active!
+2025-04-18 12:11:19,956 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:22,066 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:23,080 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:23,602 - WARNING -  * Debugger is active!
+2025-04-18 12:11:23,605 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:25,610 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:25,713 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:26,234 - WARNING -  * Debugger is active!
+2025-04-18 12:11:26,237 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:27,811 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:28,359 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:28,867 - WARNING -  * Debugger is active!
+2025-04-18 12:11:28,870 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:31,010 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:31,982 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:32,509 - WARNING -  * Debugger is active!
+2025-04-18 12:11:32,512 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:33,999 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:34,643 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:35,191 - WARNING -  * Debugger is active!
+2025-04-18 12:11:35,194 - INFO -  * Debugger PIN: 337-589-051
+2025-04-18 12:11:36,899 - INFO -  * Detected change in 'C:\\Users\\Erick Vinicius\\OneDrive\\Desktop\\firewal psicodelico\\honeynet\\fake_docs\\fake_script.py', reloading
+2025-04-18 12:11:37,595 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-18 12:11:38,175 - WARNING -  * Debugger is active!
+2025-04-18 12:11:38,179 - INFO -  * Debugger PIN: 337-589-051

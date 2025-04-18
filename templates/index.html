@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firewall Psicodélico - Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        /* Global */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2 {
+            color: #ff5722;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        h2 {
+            font-size: 24px;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+        }
+
+        /* Header */
+        header {
+            background-color: #333;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+        header p {
+            font-size: 16px;
+            color: #aaa;
+        }
+
+        /* Container */
+        .container {
+            padding: 30px;
+        }
+
+        /* Table */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #444;
+        }
+
+        th {
+            background-color: #222;
+            color: #ff5722;
+        }
+
+        tr:nth-child(even) {
+            background-color: #222;
+        }
+
+        tr:hover {
+            background-color: #333;
+        }
+
+        /* Buttons */
+        .btn {
+            background-color: #ff5722;
+            border: none;
+            color: white;
+            padding: 12px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 18px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin: 10px 0;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #e64a19;
+        }
+
+        .btn:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(255, 87, 34, 0.5);
+        }
+
+        /* Logs Container */
+        .logs-container {
+            max-height: 500px;
+            overflow-y: auto;
+            border-radius: 10px;
+            background-color: #333;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            padding: 10px;
+            margin-top: 20px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .btn {
+                width: 100%;
+                padding: 15px;
+            }
+
+            header {
+                padding: 20px;
+            }
+
+            header h1 {
+                font-size: 28px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Firewall Psicodélico - Dashboard</h1>
+    <p>Monitoramento e resposta em tempo real ao invasor</p>
+</header>
+
+<div class="container">
+    <h2>Logs do Sistema</h2>
+    <div class="logs-container">
+        <table id="logs-table">
+            <thead>
+                <tr>
+                    <th>Data/Hora</th>
+                    <th>IP do Invasor</th>
+                    <th>Ação</th>
+                    <th>Comando Executado</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Logs serão injetados aqui via JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <h2>Ações Rápidas</h2>
+    <button class="btn" onclick="startHoneynet()">Iniciar Honeynet</button>
+    <button class="btn" onclick="generateReport()">Gerar Relatório</button>
+    <button class="btn" onclick="blockAttacker()">Bloquear Invasor</button>
+</div>
+
+<script>
+    // Exemplo de dados simulados, você substituiria por dados reais do backend
+    const logs = [
+        { date: "2025-04-18 14:30:00", ip: "192.168.1.1", action: "Escaneamento de Portas", command: "nmap -sS" },
+        { date: "2025-04-18 14:32:10", ip: "192.168.1.2", action: "Tentativa de SQL Injection", command: "GET /login' OR '1'='1" },
+        { date: "2025-04-18 14:35:45", ip: "192.168.1.3", action: "Execução de Script Malicioso", command: "python3 malicioso.py" },
+    ];
+
+    function updateLogsTable() {
+        const tableBody = document.querySelector('#logs-table tbody');
+        tableBody.innerHTML = '';
+        logs.forEach(log => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${log.date}</td>
+                <td>${log.ip}</td>
+                <td>${log.action}</td>
+                <td>${log.command}</td>
+            `;
+            tableBody.appendChild(row);
+        });
+    }
+
+    function startHoneynet() {
+        alert("Iniciando a Honeynet Psicodélica...");
+        // Aqui você pode fazer uma requisição para o Flask iniciar a honeynet
+    }
+
+    function generateReport() {
+        alert("Gerando Relatório...");
+        // Aqui você pode gerar um relatório detalhado do ataque
+    }
+
+    function blockAttacker() {
+        alert("Bloqueando Invasor...");
+        // Aqui você pode bloquear o IP do invasor
+    }
+
+    // Atualizar a tabela de logs
+    updateLogsTable();
+</script>
+
+</body>
+</html>
+<!--
+    Este é um exemplo básico de um dashboard para o Firewall Psicodélico.
+    Você pode expandir e personalizar conforme necessário.  
